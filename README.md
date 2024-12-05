@@ -1,7 +1,6 @@
-
 # 🎄 Advent of Code 2024 - Solutions in C++ 🎅
 
-Welcome to the **Advent of Code 2024** solutions repository! 🎁 This project contains my C++ implementations for all 25 challenges from the [Advent of Code 2024](https://adventofcode.com/2024).
+This project contains my C++ implementations for all 25 challenges from the **Advent of Code 2024** event. 🎁
 
 ---
 
@@ -15,8 +14,8 @@ The repository is organized into subdirectories, with each directory correspondi
    ├── main2.cc
 ```
 
-- **`main1.cc`**: Solution to the first part of the problem.
-- **`main2.cc`**:     "     "  "  second  "   "   "     "   . 
+- **`main1.cc`**: Solution to the **first** part of the problem.
+- **`main2.cc`**: Solution to the **second** part of the problem.
 
 All source files refer to an **`input.txt`** file, randomly generated, which must be downloaded from the problem description on the [Advent of Code](https://adventofcode.com/) website.
 
