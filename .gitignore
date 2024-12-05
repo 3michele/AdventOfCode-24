@@ -1,5 +1,7 @@
 # Ignore everything by default 
+*
+
+!/*
 !*/main1.cc
 !*/main2.cc
 !README.md
-*
