@@ -1,3 +1,4 @@
 # Ignore everything by default 
-main 
-*.txt
+*
+!*/main1.cc
+!*/main2.cc
