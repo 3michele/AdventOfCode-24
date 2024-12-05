@@ -31,6 +31,7 @@ Here's my progress on completing all 25 problems:
 |  2  | ✅ Completed |
 |  3  | ✅ Completed |
 |  4  | ✅ Completed |
+|  5  | ✅ Completed |
 | ... |     ...      |
 
 *(Updates to be added as progress is made!)*
